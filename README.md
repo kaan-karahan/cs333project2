@@ -14,7 +14,9 @@ the other wall (from up to down)
 • For example, for the problem shown in the picture above the input would be:
 
 5
+
 AA B4 BE DC 72
+
 BE DC 72 AA B4
 
 • Now the program should use dynamic programming approach to solve the problem and 
@@ -22,7 +24,9 @@ print on the console the maximum number of lamps that can turn on, and the corre
 wiring for it. The first line should be the maximum number of lamps that can be turned on, 
 and the second line should be the codes of those lamps. For example, for the problem 
 shown in the picture above the output should be:
+
 3
+
 BE DC 72
 
 You can assume that n can be 50 maximum, and the codes are always 2 digits, and are separated by 
